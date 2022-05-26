@@ -7,4 +7,4 @@
 Раниль -  (?)\
 Риналь - (?)\
 \
-Ссылка на датасеты: TBA
+Ссылка на датасет с замерами: https://drive.google.com/drive/folders/19nq125-nDV6NksJV29uFJZozC0P1uo80?usp=sharing
