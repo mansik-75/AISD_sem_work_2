@@ -1,7 +1,3 @@
-from decorator import merge_sort_decorator
-
-
-@merge_sort_decorator
 def merge_sort(lst: list):
     if len(lst) <= 1:
         return lst

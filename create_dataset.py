@@ -22,7 +22,7 @@ for i in range(1000, 100000, 10):
     times.append((ti, i))
 
 if times:
-    with open('dataset_execution_times', 'ab') as f:
+    with open('dataset_execution_times', 'wb') as f:
         for i in times:
             pickle.dump(i, f)
     times = []
